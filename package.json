@@ -9,6 +9,7 @@
     "day4": "ts-node day4/index.ts",
     "day5": "ts-node day5/index.ts",
     "day6": "ts-node day6/index.ts",
+    "day7": "ts-node day7/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
